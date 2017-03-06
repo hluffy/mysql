@@ -1,7 +1,5 @@
 package com.dk.util;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Properties;
 
 import com.dk.entity.MysqlEntity;
